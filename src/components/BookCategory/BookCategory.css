@@ -1,0 +1,11 @@
+.book-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 1em 0;
+    justify-content: center;
+}
+
+.category-title {
+    margin: 1em;
+}

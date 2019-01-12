@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "title": "Snape: A Definitive Reading",
+      "description": "The Harry Potter series may be named after the Boy",
+      "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/41JdnmiwgpL._SY346_.jpg",
+      "category": "currentlyReading"
+    },
+    {
+      "title": "Snape: A Definitive Reading",
+      "description": "The Harry Potter series may be named after the Boy",
+      "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/41JdnmiwgpL._SY346_.jpg",
+      "category": "currentlyReading"
+    },
+    {
+      "title": "Snape: A Definitive Reading",
+      "description": "The Harry Potter series may be named after the Boy",
+      "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/41JdnmiwgpL._SY346_.jpg",
+      "category": "currentlyReading"
+    },
+
+    {
+      "title": "Dharmayoddha Kalki: Avatar",
+      "description": "Born in the quiet village of Shambala",
+      "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51PTm2tA9ML._SX321_BO1,204,203,200_.jpg",
+      "category": "wantToRead"
+    },
+    {
+      "title": "The Secret",
+      "description": "Fragments of a Great Secret have been found in the oral traditions,",
+      "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/41JdnmiwgpL._SY346_.jpg",
+      "category": "read"
+    },
+    {
+      "title": "Power of Positive Thinking",
+      "description": "The Power of Positive Thinking is a phenomenal bestselle",
+      "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/516kt1KKPiL._SX335_BO1,204,203,200_.jpg",
+      "category": "currentlyReading"
+    },
+    {
+      "title": "All I Ask Is that Today",
+      "description": "Do the Best Work of Your Entire Life",
+      "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41JP8vuX1PL.jpg",
+      "category": "wantToRead"
+    },
+    {
+      "title": "Everything I Never Told",
+      "description": "There is much here that might impress Pulitzer",
+      "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/51l5OQgOMNL.jpg",
+      "category": "wantToRead"
+    }
+  ]
+}
